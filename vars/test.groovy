@@ -1,3 +1,3 @@
-def call(string test){
+def call(String test){
  echo "Performing the test using $test"
 }
